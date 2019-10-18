@@ -4,4 +4,4 @@ Express Validator Tutorial with Input Validation Examples - implement server-sid
 
 
 ## Written Article
-[Build Secure (JWT) Token Based Authentication API with Node](https://www.positronx.io/build-secure-jwt-token-based-authentication-api-with-node/)
+[Express Validator Tutorial with Input Validation Examples](https://www.positronx.io/express-validator-tutorial-with-input-validation-examples/)
